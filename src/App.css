@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+  /* border: solid red; */
+  font-weight: 700;
+}
+
+.App button{
+  border: none;
+}
+
+.scoreCount{
+  color: black;
+}
+
+.wicketCount{
+  color: black;
+  
+}
+
+.overCount{
+  color: black;
+}
+
+.addScore{
+  /* background-color: coral; */
+  color: black;
+  height: 40px;
+  align-items: center;
+  font-weight: 700;
+  justify-content: space-around;
+}
+
+.addScore1{
+  background-color: rgb(131, 14, 53);
+  color: white;
+  border-radius: 10px;
+  width: 5%;
+  height: 100%;
+  font-weight: 700;
+}
+
+.addScore4{
+  background-color: rgb(127, 6, 46);
+  color: white;
+  border-radius: 10px;
+  width: 5%;
+  height: 100%;
+  font-weight: 700;
+}
+
+.addScore6{
+  background-color: rgb(131, 14, 53);
+  color: white;
+  border-radius: 10px;
+  width: 5%;
+  height: 100%;
+  font-weight: 700;
+}
+
+.addWicket{
+  color: black;
+  height: 40px;
+}
+
+.addBall{
+  color: black;
+  height: 40px;
+}
+
+.add1{
+  background-color: blue;
+  color: white;
+  height: 40px;
+  font-weight: 700;
+  border-radius: 10px;
+}
+
+.addoneBall{
+  background-color: rgb(255, 225, 2);
+  color: black;
+  height: 40px;
+  font-weight: 700;
+  border-radius: 10px;
+}
+
