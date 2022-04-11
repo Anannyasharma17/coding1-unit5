@@ -67,19 +67,36 @@
   height: 40px;
 }
 
-.add1{
-  background-color: blue;
-  color: white;
-  height: 40px;
-  font-weight: 700;
-  border-radius: 10px;
-}
-
-.addoneBall{
-  background-color: rgb(255, 225, 2);
+.addWicket{
+  /* background-color: blue; */
   color: black;
   height: 40px;
   font-weight: 700;
   border-radius: 10px;
 }
 
+.addWicket > button {
+  background-color: rgb(15, 153, 153);
+  color: white;
+  border-radius: 10px;
+  width: 5%;
+  height: 100%;
+  font-weight: 700;
+}
+
+.addBall{
+  /* background-color: rgb(255, 225, 2); */
+  color: black;
+  height: 40px;
+  font-weight: 700;
+  border-radius: 10px;
+}
+
+.addBall > button {
+  background-color: rgb(15, 153, 153);
+  color: white;
+  border-radius: 10px;
+  width: 5%;
+  height: 100%;
+  font-weight: 700;
+}
